@@ -1,0 +1,23 @@
+D:\Visual Studio Projects\Mongol Tori Science GUI\Mongol Tori Science GUI\bin\Debug\Mongol Tori Science GUI.exe.config
+D:\Visual Studio Projects\Mongol Tori Science GUI\Mongol Tori Science GUI\bin\Debug\Mongol Tori Science GUI.exe
+D:\Visual Studio Projects\Mongol Tori Science GUI\Mongol Tori Science GUI\bin\Debug\Mongol Tori Science GUI.pdb
+D:\Visual Studio Projects\Mongol Tori Science GUI\Mongol Tori Science GUI\obj\Debug\Mongol Tori Science GUI.csprojAssemblyReference.cache
+D:\Visual Studio Projects\Mongol Tori Science GUI\Mongol Tori Science GUI\obj\Debug\Mongol_Tori_Science_GUI.Form1.resources
+D:\Visual Studio Projects\Mongol Tori Science GUI\Mongol Tori Science GUI\obj\Debug\Mongol_Tori_Science_GUI.Properties.Resources.resources
+D:\Visual Studio Projects\Mongol Tori Science GUI\Mongol Tori Science GUI\obj\Debug\Mongol Tori Science GUI.csproj.GenerateResource.cache
+D:\Visual Studio Projects\Mongol Tori Science GUI\Mongol Tori Science GUI\obj\Debug\Mongol Tori Science GUI.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\Mongol Tori Science GUI\Mongol Tori Science GUI\obj\Debug\Mongol Tori Science GUI.exe
+D:\Visual Studio Projects\Mongol Tori Science GUI\Mongol Tori Science GUI\obj\Debug\Mongol Tori Science GUI.pdb
+D:\Mongol Tori\MT-19\Mongol Tori Science GUI\Mongol Tori Science GUI\bin\Debug\Mongol Tori Science GUI.exe.config
+D:\Mongol Tori\MT-19\Mongol Tori Science GUI\Mongol Tori Science GUI\bin\Debug\Mongol Tori Science GUI.exe
+D:\Mongol Tori\MT-19\Mongol Tori Science GUI\Mongol Tori Science GUI\bin\Debug\Mongol Tori Science GUI.pdb
+D:\Mongol Tori\MT-19\Mongol Tori Science GUI\Mongol Tori Science GUI\obj\Debug\Mongol_Tori_Science_GUI.Properties.Resources.resources
+D:\Mongol Tori\MT-19\Mongol Tori Science GUI\Mongol Tori Science GUI\obj\Debug\Mongol Tori Science GUI.csproj.GenerateResource.cache
+D:\Mongol Tori\MT-19\Mongol Tori Science GUI\Mongol Tori Science GUI\obj\Debug\Mongol Tori Science GUI.csproj.CoreCompileInputs.cache
+D:\Mongol Tori\MT-19\Mongol Tori Science GUI\Mongol Tori Science GUI\obj\Debug\Mongol Tori Science GUI.exe
+D:\Mongol Tori\MT-19\Mongol Tori Science GUI\Mongol Tori Science GUI\obj\Debug\Mongol Tori Science GUI.pdb
+D:\Mongol Tori\MT-19\Mongol Tori Science GUI\Mongol Tori Science GUI\bin\Debug\Mongol Tori Science GUI.exe.manifest
+D:\Mongol Tori\MT-19\Mongol Tori Science GUI\Mongol Tori Science GUI\bin\Debug\Mongol Tori Science GUI.application
+D:\Mongol Tori\MT-19\Mongol Tori Science GUI\Mongol Tori Science GUI\obj\Debug\Mongol_Tori_Science_GUI.Form1.resources
+D:\Mongol Tori\MT-19\Mongol Tori Science GUI\Mongol Tori Science GUI\obj\Debug\Mongol Tori Science GUI.exe.manifest
+D:\Mongol Tori\MT-19\Mongol Tori Science GUI\Mongol Tori Science GUI\obj\Debug\Mongol Tori Science GUI.application
