@@ -1,0 +1,22 @@
+<annotation>
+  <folder>images/Basalt</folder>
+  <filename>593.PNG</filename>
+  <segmented>0</segmented>
+  <size>
+    <width>628</width>
+    <height>546</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>Basalt</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>107</xmin>
+      <ymin>245</ymin>
+      <xmax>458</xmax>
+      <ymax>493</ymax>
+    </bndbox>
+  </object>
+</annotation>

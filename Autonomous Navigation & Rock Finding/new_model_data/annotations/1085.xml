@@ -1,0 +1,22 @@
+<annotation>
+  <folder>E:/Masrur/ROCKS/Rock pics-20191016T082340Z-001/new_model_data/Breccia</folder>
+  <filename>1085.PNG</filename>
+  <segmented>0</segmented>
+  <size>
+    <width>476</width>
+    <height>393</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>Breccia</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>113</xmin>
+      <ymin>105</ymin>
+      <xmax>247</xmax>
+      <ymax>248</ymax>
+    </bndbox>
+  </object>
+</annotation>
