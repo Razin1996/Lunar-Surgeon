@@ -1,0 +1,20 @@
+D:\Visual Studio Projects\Mongol Tori Science Box New\Mongol Tori Science Box New\bin\Debug\Mongol Tori Science Box New.exe.config
+D:\Visual Studio Projects\Mongol Tori Science Box New\Mongol Tori Science Box New\bin\Debug\Mongol Tori Science Box New.exe
+D:\Visual Studio Projects\Mongol Tori Science Box New\Mongol Tori Science Box New\bin\Debug\Mongol Tori Science Box New.pdb
+D:\Visual Studio Projects\Mongol Tori Science Box New\Mongol Tori Science Box New\obj\Debug\Mongol Tori Science Box New.csprojAssemblyReference.cache
+D:\Visual Studio Projects\Mongol Tori Science Box New\Mongol Tori Science Box New\obj\Debug\Mongol_Tori_Science_Box_New.Form1.resources
+D:\Visual Studio Projects\Mongol Tori Science Box New\Mongol Tori Science Box New\obj\Debug\Mongol_Tori_Science_Box_New.Properties.Resources.resources
+D:\Visual Studio Projects\Mongol Tori Science Box New\Mongol Tori Science Box New\obj\Debug\Mongol Tori Science Box New.csproj.GenerateResource.cache
+D:\Visual Studio Projects\Mongol Tori Science Box New\Mongol Tori Science Box New\obj\Debug\Mongol Tori Science Box New.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\Mongol Tori Science Box New\Mongol Tori Science Box New\obj\Debug\Mongol Tori Science Box New.exe
+D:\Visual Studio Projects\Mongol Tori Science Box New\Mongol Tori Science Box New\obj\Debug\Mongol Tori Science Box New.pdb
+D:\Mongol Tori\MT-19\Mongol Tori Science Box New\Mongol Tori Science Box New\bin\Debug\Mongol Tori Science Box New.exe.config
+D:\Mongol Tori\MT-19\Mongol Tori Science Box New\Mongol Tori Science Box New\bin\Debug\Mongol Tori Science Box New.exe
+D:\Mongol Tori\MT-19\Mongol Tori Science Box New\Mongol Tori Science Box New\bin\Debug\Mongol Tori Science Box New.pdb
+D:\Mongol Tori\MT-19\Mongol Tori Science Box New\Mongol Tori Science Box New\obj\Debug\Mongol Tori Science Box New.csprojAssemblyReference.cache
+D:\Mongol Tori\MT-19\Mongol Tori Science Box New\Mongol Tori Science Box New\obj\Debug\Mongol_Tori_Science_Box_New.Form1.resources
+D:\Mongol Tori\MT-19\Mongol Tori Science Box New\Mongol Tori Science Box New\obj\Debug\Mongol_Tori_Science_Box_New.Properties.Resources.resources
+D:\Mongol Tori\MT-19\Mongol Tori Science Box New\Mongol Tori Science Box New\obj\Debug\Mongol Tori Science Box New.csproj.GenerateResource.cache
+D:\Mongol Tori\MT-19\Mongol Tori Science Box New\Mongol Tori Science Box New\obj\Debug\Mongol Tori Science Box New.csproj.CoreCompileInputs.cache
+D:\Mongol Tori\MT-19\Mongol Tori Science Box New\Mongol Tori Science Box New\obj\Debug\Mongol Tori Science Box New.exe
+D:\Mongol Tori\MT-19\Mongol Tori Science Box New\Mongol Tori Science Box New\obj\Debug\Mongol Tori Science Box New.pdb
